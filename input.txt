@@ -1,0 +1,18 @@
+var int test = 6
+const int try = 10
+var int add = 1 + 2
+basedin name
+basedout (name)
+if (test < 0){
+    basedout ("Hello World!") }
+if (test > 0){
+    basedout ("The Number has entered") }
+else { 
+basedout ("The Number has not entered") }
+for = (int i = 0; i <= 10; i++){
+basedout i; }
+do {
+  basedout (test)
+  i++; }
+while (i < 5);
+var float kahitano = 4

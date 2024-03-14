@@ -1,0 +1,16 @@
+CS0035 Proect - Compiler Front-end
+----------------------------------
+
+Lexical Analysis
+Syntax Analysis
+Semantic Analysis
+
+Design and Create your own Programming
+1.) Identifiers (Var, Constant)
+2.) Arithmetic Expression
+3.) I/O Commands
+4.) Conditional Statement: if, if-else
+5.) Looping Statement: for, do-while
+
+MAIN INPUT  : Text file / Text Stream
+OUTPUT-1    : Lexemes, Tokens
